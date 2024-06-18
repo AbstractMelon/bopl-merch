@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "bopl T-shirt",
+    "description": "High quality bopl T-shirt",
+    "price": "$20",
+    "image": "/images/bopl-tshirt.jpg",
+    "urlName": "bopl-tshirt"
+  },
+  {
+    "id": 2,
+    "name": "bopl Mug",
+    "description": "Ceramic mug with bopl logo",
+    "price": "$10",
+    "image": "/images/bopl-mug.jpg",
+    "urlName": "bopl-mug"
+  },
+  {
+    "id": 3,
+    "name": "bopl Hoodie",
+    "description": "Warm and cozy bopl hoodie",
+    "price": "$40",
+    "image": "/images/bopl-hoodie.jpg",
+    "urlName": "bopl-hoodie"
+  }
+]
