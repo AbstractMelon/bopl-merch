@@ -8,16 +8,16 @@ export default function Navbar() {
         <nav className="page-header-navbar">
           <ul>
             <li>
-              <a href="/">Home</a>
+              <Link href="/">Home</Link>
             </li>
             <li>
-              <a href="/products">Products</a>
+              <Link href="/products">Products</Link>
             </li>
             <li>
-              <a href="/about">About</a>
+              <Link href="/about">About</Link>
             </li>
             <li>
-              <a href="/cart">Cart</a>
+              <Link href="/cart">Cart</Link>
             </li>
           </ul>
         </nav>

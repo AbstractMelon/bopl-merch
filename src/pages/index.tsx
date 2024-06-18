@@ -1,4 +1,5 @@
 import Navbar from "../components/Navbar";
+import Link from "next/link";
 
 const Home = () => {
   return (
@@ -9,9 +10,9 @@ const Home = () => {
           <div className="hero-content">
             <h1>Welcome to Bopl Battle Merchandise!</h1>
             <p>Your one-stop shop for the best Bopl Battle merchandise!</p>
-            <a href="/products" className="cta-button">
+            <Link href="/products" className="cta-button">
               Shop Now
-            </a>
+            </Link>
           </div>
         </div>
       </div>
